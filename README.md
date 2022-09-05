@@ -16,3 +16,6 @@ source .venv/bin/activate
 pip install -U pip
 pip install -r requirements.txt
 ```
+## Reports
+- Report folder:
+[DIP_2022_Reports](https://drive.google.com/drive/folders/1vQK8VhWexnUM7o6KvhL-9RJkMECN2cqY?usp=sharing)
